@@ -12,7 +12,8 @@ A Virtual assistant which works completely offline, providing all basic function
 ## Usage
 - Download all the files
 - "pip install requirements.txt"
-- Run the "main.py"
+- Open PowerShell or CommandPrompt in the folder where files are downloaded
+- Run "python main.py"
 
 ## Available voice options
 ### To control media
