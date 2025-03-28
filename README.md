@@ -20,7 +20,6 @@ A Virtual assistant which works completely offline, providing all basic function
 ### To control volume and brightness
 - Must include "volume" or "brightness" in the sentence.
 - You can say a specific number for percentage controll or simply say up and down
-- You can also say half, minimum, max, maximum, one fourth.
 ### To open app
 - Simply say open (app name).
 
@@ -29,5 +28,6 @@ A Virtual assistant which works completely offline, providing all basic function
 - Search the web and open in default browser
 - Notification read out loud
 - An executable file rather than python setup
+- You can also say half, minimum, max, maximum, one fourth.
 
 ### Contributions are very welcome
