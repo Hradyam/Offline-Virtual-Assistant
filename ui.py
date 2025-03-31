@@ -9,7 +9,7 @@ import subprocess
 import tempfile
 
 # Replace with your Picovoice AccessKey
-ACCESS_KEY = "txaNHIV5YLy8x3OFqlGLaxMWRYwacB41al+Vh41aYLPo+9SoNHDhPQ=="
+ACCESS_KEY = "YOUR API ACCESS KEY HERE"
 
 class ChatbotUI:
     def __init__(self, root):
